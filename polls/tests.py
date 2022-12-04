@@ -1,5 +1,6 @@
 import datetime
 
+import appmap.unittest
 from django.test import TestCase
 from django.urls import reverse
 from django.utils import timezone
